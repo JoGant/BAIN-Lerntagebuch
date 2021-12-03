@@ -1,6 +1,6 @@
 ---
 title: Einführungsartikel "Wo bin ich gestartet?"
-date: 2021-09-15
+date: 2021-09-14
 ---
 
 Mein Name ist Joëlle Gantenbein, ich bin 34 Jahre alt und wohne zurzeit in Baden. Allerdings komme ich ursprünglich aus Schaffhausen. Ich habe mein ganzes Berufsleben in den Bereichen Bibliothek, Archiv oder Informationszentren verbracht. Mittlerweile vor über 15 Jahren hatte ich die Ausbildung zur Informations- und Dokumentationsassistentin absolviert. Meine beruflichen Erfahrungen im Bereich Archivsoftware konnte ich nach der Lehrzeit in einer einjährigen Anstellung im Staatsarchiv Schaffhausen mit der Datenbank STAR II, sowie in einer siebenjährigen Anstellung im Records Management bei der kantonalen Verwaltung Zürich mit der Datenbank Evidence und CMI Axioma vertiefen. Evidence von Glaux Soft habe ich auch mehrmals durch verschiedene Releases begleitet und in meiner Rolle als Fachverantwortliche Records Management auch in Zusammenarbeit mit den Softwareentwicklern weiterentwickelt. 
